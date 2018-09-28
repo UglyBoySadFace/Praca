@@ -1,2 +1,0 @@
-# Praca
-Created with CodeSandbox
